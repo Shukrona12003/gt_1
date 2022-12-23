@@ -1,1 +1,4 @@
 person B has added this file
+adding the right changes
+this is good to be removed to the central repo
+adding new comment
